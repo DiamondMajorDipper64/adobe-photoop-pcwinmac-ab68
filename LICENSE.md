@@ -1,4 +1,4 @@
-# 
+# Élite Adobe Photoshop flujo de trabajo para Mac OS | Código abierto Adobe Photoshop flujo de trabajo para PC Windows. Con formularios interactivos y plantillas de diseño — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
